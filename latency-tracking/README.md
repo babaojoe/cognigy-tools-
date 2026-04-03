@@ -60,7 +60,6 @@ Open `config.json` and fill in your Cognigy details:
 - **base_url** — the root URL of your Cognigy environment. You can paste it directly from your browser's address bar — the tool automatically strips `/openapi` from the end if present. Examples:
   - `https://api-trial-us.cognigy.ai`
   - `https://api-trial-us.cognigy.ai/openapi` ← also works
-  - `https://api-frontier.cognigy.cloud/openapi` ← also works
 
 To add multiple projects, copy and paste the `{ }` block inside `"projects"` and fill in the new values.
 

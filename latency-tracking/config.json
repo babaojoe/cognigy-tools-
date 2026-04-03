@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "Frontier Air Voice UAT",
+      "name": "Project name",
       "api_key": "Your API Key",
-      "project_id": "69727d695385e9955479c6f6",
-      "base_url": "https://api-frontier.cognigy.cloud",
-      "notes": "Frontier UAT"
+      "project_id": "",
+      "base_url": "base URL",
+      "notes": ""
     }
   ],
   "defaults": {
